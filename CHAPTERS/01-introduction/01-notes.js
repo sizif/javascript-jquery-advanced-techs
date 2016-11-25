@@ -1,0 +1,5 @@
+/*
+01-01 TRADITIONAL JS FUNCTIONS
+
+
+*/
